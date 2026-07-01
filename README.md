@@ -2,9 +2,6 @@
 Offensive AWS security portfolio — IAM privilege escalation, S3 misconfig exploitation, and cloud attack path documentation from hands-on labs (flAWS, CloudGoat, AWSGoat, Pacu). Built while training for junior cloud security engineer roles.
 
 
-Documented offensive AWS security work — attack paths, exploitation write-ups, and 
-tooling built while training for junior cloud security / cloud pentesting roles.
-
 ## What's here
 - **Write-ups**: Step-by-step exploitation of intentionally vulnerable AWS environments 
   (flAWS.cloud, CloudGoat, AWSGoat) — attack narrative, commands used, root cause, 
